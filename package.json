@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/jessicaantiope/fencing.git",
   "author": "jessica draper <j.b.draper@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node": "^11.1.0"
+  }
 }
